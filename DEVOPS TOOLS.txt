@@ -1,0 +1,101 @@
+                                            devops tools
+
+
+  Git
+   
+
+Git is a version control system used for tracking changes in computer files.
+ It is generally used for source code management in software development.
+
+Git is used to tracking changes in the source code
+
+The distributed version control tool is used for source code management
+
+It allows multiple developers to work together
+
+
+             Features of Git
+
+1 Tracks history
+2 Free and open source
+3 Supports non-linear development
+4 Creates backups
+Scalable
+5 Supports collaboration
+6 Branching is easier
+7 Distributed development
+
+The Git workflow is divided into three states:
+
+Working directory - Modify files in your working directory
+
+Staging area (Index) - Stage the files and add snapshots of them to your staging area
+
+Git directory (Repository) - Perform a commit that stores the snapshots permanently to your Git directory.
+
+Checkout any existing version, make changes, stage them and commit.
+
+-------------------------------------------------------------------------------------------------------------------
+
+JENKINS---Jenkins used for automation, open-source 
+ developers to build, test and deploy software.
+ It works or runs on java as it is written in java.
+ By using Jenkins we can make a continuous integration of 
+projects(jobs) or end-to-endpoint automation.
+---------------------------------------------------------------------------------
+
+MAVEN ---Maven is a build tool for Java-based applications. 
+Using Maven we can automate application code compilation and Build process. 
+Maven is one of the core tools in the gamut of DevOps practices.
+Its very important for DevOps Engineers to learn Maven to understand end to end Build,
+packaging and deployment process.
+----------------------------------------------------------------------------------------------------------------------
+ANSIBLE -Ansible as a means to automate increasingly complex IT environments.
+Ansible provides a common framework through which IT teams can automate the provisioning of servers, 
+virtual machines, 
+clusters, 
+switches, 
+routers and storage systems.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+DOCKER-  Docker tool was designed for developers and system administrators, a
+n essential part of DevOps. With Docker, developers can focus on application development run.
+ They can start all by themselves using ready-to-use Docker programs.
+
+I have created a dockerfile in my repo
+I have created a pipline that build and push an image to container registry
+I have checked that the image exist in container registry
+I have started on a new release pipline with the following task
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+TERRAFORM--Terraform is an open-source infrastructure as code software tool
+ that enables you to safely and predictably 
+create, 
+change, and 
+improve infrastructure. ...
+ Multi-Cloud DevOps
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+maveen-Apache Maven is a software project management and comprehension tool. 
+Based on the concept of a project object model (POM), Maven can manage a project's build,
+reporting and documentation from a central piece of information.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+KUBERNETES--
+
+
+Container orchestration system
+Kubernetes is an open-source container orchestration system for automating software deployment,
+
+ scaling
+ a Originally designed by Google,
+ the project is now maintained by the Cloud Nativ…
+
+Kubernator is an alternative Kubernetes UI. 
+In contrast to high-level Kubernetes Dashboard, 
+it provides low level control and clean view on all objects in a cluster with the ability to create new ones, 
+edit and resolve conflicts.
